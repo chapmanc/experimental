@@ -1,5 +1,5 @@
 bases:
-- ./plainkube-all
+- ../plainkube-all
 images:
 - name: webhooksExtensionImage
   newName: gcr.io/tekton-nightly/extension
